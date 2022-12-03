@@ -17,7 +17,7 @@ Urmia University – Department of Civil Engineering
 * Master of Science in Water Resources Engineering, From September 2015 to September 2017
 Tabriz University – Department of Water Resources Engineering
 
-  Thesis Title: Spatio-temporal Disaggregation of Rainfall using Rain-gauge and Radar Derived Data
+  * Thesis Title: Spatio-temporal Disaggregation of Rainfall using Rain-gauge and Radar Derived Data
 
 Work experience
 ======
@@ -31,13 +31,13 @@ Work experience
       * “Investigating the feasibility of reactive powder concrete in manhole cover manufacturing” for Water and Sewage Company of Eastern Azarbaijan
 
     * Duties:
-     * Identifying suitable techniques for the collection and analysis of data.
-     * Assisting in the development & preparation of continuing funding opportunities.
-     * Travelling to study sites and research visits in other institutions.
-     * Contributing to team decisions about research directions.
-     * Ensuring the validity and reliability of data at all times.
-     * Data coding, data entry, transcribing, data analysis & assistance with writing up.
-     * Visualization of data (research data or financial data) in a clear fashion.
+      * Identifying suitable techniques for the collection and analysis of data.
+      * Assisting in the development & preparation of continuing funding opportunities.
+      * Travelling to study sites and research visits in other institutions.
+      * Contributing to team decisions about research directions.
+      * Ensuring the validity and reliability of data at all times.
+      * Data coding, data entry, transcribing, data analysis & assistance with writing up.
+      * Visualization of data (research data or financial data) in a clear fashion.
 
 
 
