@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science in Civil Engineering, From September 2010 to September 2015
+* Bachelor of Science in Civil Engineering - From September 2010 to September 2015
 Urmia University – Department of Civil Engineering
 
-* Master of Science in Water Resources Engineering, From September 2015 to September 2017
+* Master of Science in Water Resources Engineering - From September 2015 to September 2017
 Tabriz University – Department of Water Resources Engineering
 
   * Thesis Title: Spatio-temporal Disaggregation of Rainfall using Rain-gauge and Radar Derived Data
