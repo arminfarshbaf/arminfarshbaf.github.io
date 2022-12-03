@@ -1,10 +1,15 @@
 ---
-title: "Vulnerability assessment of power transmission towers affected by land subsidence via InSAR technique and FEM analysis"
+title: "2.	Vulnerability assessment of power transmission towers affected by land subsidence via InSAR technique and FEM analysis"
 collection: publications
-permalink: 
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'Subsidence induced by groundwater (GW) in the plains of Zanjan and Qazvin provinces in northwestern parts of Iran has impacted various infrastructures. This study investigated the impact of GW depletion on land subsidence and its effect on power transmission towers (PTTs) in the Zanjan and Qazvin provinces. Subsidence maps were acquired via time series analysis by performing a small baseline subset (SBAS) on Sentinel-1 (2017-02-23 till 2019-02-25) satellite data. Results indicate maxima values of 132 mm/yr and 80 mm/yr subsidence rates in line-of-sight direction for Qazvin and Zanjan provinces, respectively. Observed GW shows a rapid decline of piezometric head of 13.2 meters for Qazvin province. Furthermore, GW head drop, coupled with the dominance of fine-grained soils in Qazvin province, increases the rate of plain-wide subsidence. Employing a finite element method (FEM) analysis on two commonly utilized PTTs in the region illustrated such vulnerable members (bottom legs and first transverse plane) under support settlement conditions. However, the T-30 tower, by mitigating the stress to more members of the tower, performed superior in most subsidence scenarios. Combining the results of this study, it is evident that plains with high subsidence risks should utilize T-30 towers or similar towers to prevent catastrophic damage in case of localized subsidence.'
 date: 2022
 venue: 'Environment, Development and Sustainability Journal'
-paperurl: 
-citation: 
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
